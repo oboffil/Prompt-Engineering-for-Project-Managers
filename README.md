@@ -8,7 +8,7 @@ This repository provides AI-driven prompts specifically designed for project man
 
 Although I have experience creating repositories and working with GitHub, this project was developed entirely using AI-generated prompts. The goal was to showcase how AI can assist in structuring, organizing, and enhancing documentation efficiently.  
 
-From repository setup to content creation, all files, structures, and prompts were generated using well-crafted AI queries. This demonstrates the power of AI in streamlining workflows for project managers, product owners, and technical professionals.  
+From repository setup to content refinement, all files, structures, and prompts were generated using well-crafted AI queries. This showcases the power of AI in streamlining workflows for project managers, product owners, and technical professionals.  
 
 This approach highlights how AI can serve as a valuable assistant in structuring technical documentation, improving productivity, and generating high-quality content in a fraction of the time.  
 
