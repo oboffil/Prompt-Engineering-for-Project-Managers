@@ -4,7 +4,9 @@ This file contains AI-powered prompts designed to help project managers/project 
 
 ## 📌 Categories  
 
-- [Risk Assessment](#risk-assessment)  
+- [Risk Assessment](#risk-assessment)
+- [User Stories](#User-Stories)
+- [Features](#Features)     
 - [Stakeholder Communication](#stakeholder-communication)  
 - [Task Prioritization](#task-prioritization)  
 - [Sprint Planning](#sprint-planning)  
@@ -15,6 +17,8 @@ This file contains AI-powered prompts designed to help project managers/project 
 ## 🔍 Risk Assessment  
 ```plaintext
 "Act as a project manager overseeing a software development project with a tight deadline. Identify potential risks based on scope, resources, and dependencies, and suggest mitigation strategies from this description: <Project information>." 
+
+---
 
 Note: In the previous prompt, you could specify the project software name or the technology you’re using, as the AI will be smart enough to provide suggestions based on that technology. 
 
