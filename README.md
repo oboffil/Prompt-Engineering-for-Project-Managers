@@ -2,7 +2,15 @@
 
 ### Enhance Decision-Making, Create stories, build features and more with AI-Powered Prompts   
 
-This repository provides AI-driven prompts specifically designed for project managers and project owners to improve velocity, efficiency, communication, and strategic thinking.  
+This repository provides AI-driven prompts specifically designed for project managers and project owners to improve velocity, efficiency, communication, and strategic thinking.
+
+## 🛠️ About This Repository  
+
+Although I have experience creating repositories and working with GitHub, this project was developed entirely using AI-generated prompts. The goal was to showcase how AI can assist in structuring, organizing, and enhancing documentation efficiently.  
+
+From repository setup to content creation, all files, structures, and prompts were generated using well-crafted AI queries. This demonstrates the power of AI in streamlining workflows for project managers, product owners, and technical professionals.  
+
+This approach highlights how AI can serve as a valuable assistant in structuring technical documentation, improving productivity, and generating high-quality content in a fraction of the time.  
 
 ## 📌 What You'll Learn  
 - How to craft effective prompts for various project management tasks  
@@ -17,7 +25,16 @@ All prompts are available in [prompts.md](prompts.md). Categories include:
 ✅ Features
 ✅ Task Prioritization  
 ✅ Sprint Planning  
-✅ Meeting Summarization  
+✅ Meeting Summarization
+✅ Goal Setting  
+✅ Change Management 
+✅ Resource Allocation
+✅ Client Updates 
+✅ Retrospective
+✅ Team Development
+✅ Status Reporting  
+✅ Task Prioritization 
+
 
 ## 🚀 Getting Started  
 To use these prompts, simply copy them into an AI tool like ChatGPT and adjust based on your specific needs.  

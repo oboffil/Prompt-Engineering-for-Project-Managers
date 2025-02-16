@@ -19,7 +19,7 @@ This file contains AI-powered prompts designed to help project managers/project 
 - [Team Development](#team-development)  
 - [Status Reporting](#status-reporting)    
 - [Task Prioritization](#task-prioritization)  
-- [Real-life Scenarios](#real-life-scenarios) 
+
 
 ---
 
