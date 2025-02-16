@@ -20,20 +20,20 @@ This approach highlights how AI can serve as a valuable assistant in structuring
 ## 📂 Available Prompts  
 All prompts are available in [prompts.md](prompts.md). Categories include:  
 ✅ Risk Assessment  
-✅ Stakeholder Communication
-✅ User Stories
-✅ Features
+✅ Stakeholder Communication  
+✅ User Stories  
+✅ Features  
 ✅ Task Prioritization  
 ✅ Sprint Planning  
-✅ Meeting Summarization
+✅ Meeting Summarization  
 ✅ Goal Setting  
-✅ Change Management 
-✅ Resource Allocation
-✅ Client Updates 
-✅ Retrospective
-✅ Team Development
+✅ Change Management  
+✅ Resource Allocation  
+✅ Client Updates  
+✅ Retrospective  
+✅ Team Development  
 ✅ Status Reporting  
-✅ Task Prioritization 
+✅ Task Prioritization  
 
 
 ## 🚀 Getting Started  
