@@ -25,8 +25,8 @@ To use these prompts, simply copy them into an AI tool like ChatGPT and adjust b
 ## 🔥 Example Prompts  
 
 ### **1. Risk Assessment Prompt**  
-```plaintext
-"I am a project manager overseeing a software development project with a tight deadline. Identify potential risks based on scope, resources, and dependencies, and suggest mitigation strategies from this description: <Project information>"
+
+I am a project manager overseeing a software development project with a tight deadline. Identify potential risks based on scope, resources, and dependencies, and suggest mitigation strategies from this description:
 
 ## ⚠️ Data Privacy Reminder  
 AI models process and learn from the input provided. **Never share sensitive, confidential, or proprietary company data with open-source AI models.**  
